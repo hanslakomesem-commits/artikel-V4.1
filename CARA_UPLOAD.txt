@@ -1,0 +1,17 @@
+ZAIN.NET — Skripsi Jadi Artikel V1.4
+
+CARA UPLOAD KE GITHUB PAGES (cara upload langsung):
+1. Extract ZIP ini.
+2. Upload SEMUA file di dalam folder langsung ke ROOT repository GitHub.
+3. Commit changes.
+4. Settings > Pages > Deploy from a branch.
+5. Branch: main, folder: /(root), lalu Save.
+6. Tunggu deploy selesai dan buka link GitHub Pages.
+7. Jika masih versi lama, tekan Ctrl+F5.
+
+CATATAN V1.4:
+- Klik "Analisis & Buat Draft + Download Otomatis".
+- Setelah seluruh proses selesai dan validasi Abstract lolos, Artikel_Nama.docx otomatis terdownload.
+- Tombol "Download Ulang Artikel .DOCX" tetap tersedia bila ingin download lagi.
+- Paragraf baru Abstrak Indonesia dan Abstract Inggris memakai indent/tab satu kali dan tetap single spacing.
+- Jarak judul artikel ke nama penulis sudah diperbesar.
